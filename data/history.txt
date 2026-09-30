@@ -1,0 +1,15 @@
+2026-09-30 19:52:41 | test-data/user-screenshot-test.png | eng+hye | 194 chars | 26 words | 0.29 sec
+2026-09-30 20:05:13 | test-data/user-screenshot-test.png | eng+hye | 224 chars | 30 words | 0.27 sec
+2026-09-30 20:06:08 | C:\Users\LOQ\OneDrive\Рисунки\Screenshots\Screenshot 2026-08-10 094425.png | hye | 230 chars | 30 words | 0.16 sec
+2026-09-30 20:10:25 | C:\Users\LOQ\OneDrive\Рисунки\Screenshots\Screenshot 2026-09-13 154953.png | rus | 973 chars | 125 words | 0.46 sec
+2026-09-30 20:20:11 | test-data/gui-ocr-check.png | rus | 220 chars | 34 words | 0.19 sec
+2026-09-30 20:20:11 | test-data/gui-ocr-check.png | eng | 228 chars | 31 words | 0.21 sec
+2026-09-30 20:20:12 | test-data/gui-ocr-check.png | hye | 230 chars | 30 words | 0.16 sec
+2026-09-30 20:20:12 | test-data/gui-ocr-check.png | rus+eng+hye | 224 chars | 30 words | 0.35 sec
+2026-09-30 20:23:51 | Screenshot 2026-09-30 202315.png | rus | 42 chars | 5 words | 0.06 sec
+2026-09-30 20:24:00 | Screenshot 2026-09-30 202315.png | rus | 42 chars | 5 words | 0.05 sec
+2026-09-30 20:24:01 | Screenshot 2026-09-30 202315.png | rus | 42 chars | 5 words | 0.05 sec
+2026-09-30 20:24:27 | Screenshot 2026-09-30 202315.png | rus+eng | 68 chars | 9 words | 0.13 sec
+2026-09-30 20:36:01 | Screenshot 2026-09-30 202315.png | rus | 42 chars | 5 words | 0.09 sec
+2026-09-30 20:36:05 | Screenshot 2026-09-30 202315.png | rus | 41 chars | 5 words | 0.05 sec
+2026-09-30 20:36:24 | Screenshot 2026-09-30 202315.png | rus+eng | 68 chars | 9 words | 0.14 sec

@@ -1,0 +1,1 @@
+Place your own OCR sample images in this directory, for example russian.jpg, english.jpg, armenian.jpg, or mixed.jpg. Images are not included in the project. OCRServiceTest uses test-data/ocr-sample.png when available.
